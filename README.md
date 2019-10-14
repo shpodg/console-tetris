@@ -1,5 +1,6 @@
 # console-tetris
 命令行俄罗斯方块
+> 开发语言C++
 > 仅支持windows
 ## 下载
 * https://github.com/shpodg/console-tetris/releases
